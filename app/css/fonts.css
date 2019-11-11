@@ -1,0 +1,39 @@
+@font-face {
+font-family: 'TTNorms Bold';
+src: url('../fonts/TTNorms/TTNorms-Bold.eot');
+src: url('../fonts/TTNorms/TTNorms-Bold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/TTNorms/TTNorms-Bold.woff') format('woff'),
+url('../fonts/TTNorms/TTNorms-Bold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'TTNorms Regular';
+src: url('../fonts/TTNorms/TTNorms-Regular.eot');
+src: url('../fonts/TTNorms/TTNorms-Regular.eot?#iefix') format('embedded-opentype'),
+url('../fonts/TTNorms/TTNorms-Regular.woff') format('woff'),
+url('../fonts/TTNorms/TTNorms-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'TTNorms Medium';
+src: url('../fonts/TTNorms/TTNorms-Medium.eot');
+src: url('../fonts/TTNorms/TTNorms-Medium.eot?#iefix') format('embedded-opentype'),
+url('../fonts/TTNorms/TTNorms-Medium.woff') format('woff'),
+url('../fonts/TTNorms/TTNorms-Medium.ttf') format('truetype');
+font-weight: normal;
+font-style: normal; 
+}
+
+@font-face {
+font-family: 'TTNorms Light';
+src: url('../fonts/TTNorms/TTNorms-Light.eot');
+src: url('../fonts/TTNorms/TTNorms-Light.eot?#iefix') format('embedded-opentype'),
+url('../fonts/TTNorms/TTNorms-Light.woff') format('woff'), 
+url('../fonts/TTNorms/TTNorms-Light.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
